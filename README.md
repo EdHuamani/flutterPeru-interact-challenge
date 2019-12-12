@@ -4,4 +4,4 @@ Flutter interact challenge 2019 by FlutterPeru
 
 ## Preview
 
-![](/assets/flutter_01.png | width=200)
+<img src="assets/flutter_01.png" width="400px">
